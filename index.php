@@ -1,5 +1,5 @@
 <?php
 
-echo "<strong>Bunda</strong>";
+  echo "Bunda";
 
 ?> 
